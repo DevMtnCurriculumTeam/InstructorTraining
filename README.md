@@ -7,13 +7,13 @@ Rotating weekly training for Instructors, Lead Mentors, and Mentors at DevMounta
 -[Week 2 - Teaching with Clarity](#week2)
 -[Week 3 - Assessing the Learning Context](#week3)
 -[Week 4 - Building Learner Motivation](#week4)
--[Week 5 - Personal Analysis](#week5)
--[Week 6 - Delivering Constructive Feedback](#week6)
+-[Week 5 - Delivering Constructive Feedback](#week5)
+-[Week 6 - Personal Analysis](#week6)
 
 
-## <a name="week1"></a> Week 1
-## <a name="week2"></a> Week 2
-## <a name="week3"></a> Week 3
-## <a name="week4"></a> Week 4
-## <a name="week5"></a> Week 5
-## <a name="week6"></a> Week 6
+## <a name="week1"></a> Accountability in Education
+## <a name="week2"></a> Teaching With Clarity
+## <a name="week3"></a> Assessing the Learning Context
+## <a name="week4"></a> Building Learner Motivation
+## <a name="week5"></a> Delivering Constructive Feedback
+## <a name="week6"></a> Personal Analysis
