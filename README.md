@@ -21,7 +21,32 @@ Rotating weekly training for Instructors, Lead Mentors, and Mentors at DevMounta
 - Black Diamond
 	-text
 ## <a name="week2"></a> Teaching With Clarity
+- [Video Training](http://youtube.com)
+- Practice Problems
+	-text
+- Black Diamond
+	-text
 ## <a name="week3"></a> Assessing the Learning Context
+- [Video Training](http://youtube.com)
+- Practice Problems
+	-text
+- Black Diamond
+	-text
 ## <a name="week4"></a> Building Learner Motivation
+- [Video Training](http://youtube.com)
+- Practice Problems
+	-text
+- Black Diamond
+	-text
 ## <a name="week5"></a> Delivering Constructive Feedback
+- [Video Training](http://youtube.com)
+- Practice Problems
+	-text
+- Black Diamond
+	-text
 ## <a name="week6"></a> Personal Analysis
+- [Video Training](http://youtube.com)
+- Practice Problems
+	-text
+- Black Diamond
+	-text
