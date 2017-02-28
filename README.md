@@ -1,7 +1,10 @@
 <img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
 
+
 ## DevMountain Ongoing Instructor Training Curriculum
 Rotating weekly training for Instructors, Lead Mentors, and Mentors at DevMountain
+
+
 
 -[Week 1 - Accountability in Education](#week1)
 -[Week 2 - Teaching with Clarity](#week2)
