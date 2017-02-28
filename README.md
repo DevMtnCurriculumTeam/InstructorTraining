@@ -15,6 +15,7 @@ Rotating weekly training for Instructors, Lead Mentors, and Mentors at DevMounta
 
 ###Start Here
 [Watch this introduction video before completing any of the trainings](http://youtube.com)
+
 [Give Feedback on Last Week's Training Here](http://youtube.com)
 
 In this training series, you will be going through these training videos, and then working through the concepts covered within them by doing the practice problems that follow each video. Each training has multiple practice problems so that you can complete the training multiple times without repeating the same practice unless it is needed.
