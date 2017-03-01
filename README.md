@@ -30,13 +30,13 @@ Finally, each practice also includes 'Black Diamond' exercises and goals for peo
 Let's get started. 
 
 ## <a name="week1"></a> Accountability in Education
-- [Video Training](http://youtube.com)
-- Practice Problems
-  - text
-- Goals
-  - text
-- Black Diamond
-  - text
+### [Video Training](http://youtube.com)
+###Practice Problems
+1. text
+###Goals
+1. text
+###Black Diamond
+1. text
 
 
 ## <a name="week2"></a> Teaching With Clarity
