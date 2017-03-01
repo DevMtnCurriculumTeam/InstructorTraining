@@ -31,11 +31,11 @@ Let's get started.
 
 ## <a name="week1"></a> Accountability in Education
 ### [Video Training](http://youtube.com)
-###Practice Problems
+### Practice Problems
 1. text
-###Goals
+### Goals
 1. text
-###Black Diamond
+### Black Diamond
 1. text
 
 
