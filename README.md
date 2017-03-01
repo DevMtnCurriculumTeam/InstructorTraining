@@ -33,8 +33,10 @@ Let's get started.
 ### [Video Training](http://youtube.com)
 ### Practice Problems
 1. text
+
 ### Goals
 1. text
+
 ### Black Diamond
 1. text
 
