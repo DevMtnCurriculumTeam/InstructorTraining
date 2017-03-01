@@ -6,21 +6,20 @@ Rotating weekly training for Instructors, Lead Mentors, and Mentors at DevMounta
 
 
 -[Week 1 - Accountability in Education](#week1)
-
+  -[Feedback](http://youtube.com)
 -[Week 2 - Teaching with Clarity](#week2)
-
+  -[Feedback](http://youtube.com)
 -[Week 3 - Assessing the Learning Context](#week3)
-
+  -[Feedback](http://youtube.com)
 -[Week 4 - Building Learner Motivation](#week4)
-
+  -[Feedback](http://youtube.com)
 -[Week 5 - Delivering Constructive Feedback](#week5)
-
+  -[Feedback](http://youtube.com)
 -[Week 6 - Personal Analysis](#week6)
+  -[Feedback](http://youtube.com)
 
 ###Start Here
-[Watch this introduction video before completing any of the trainings](http://youtube.com)
-
-[Give Feedback on Last Week's Training Here](http://youtube.com)
+[Watch this introduction video before completing any of the trainings](https://youtu.be/mG0H6OWUD3I)
 
 In this training series, you will be going through these training videos, and then working through the concepts covered within them by doing the practice problems that follow each video. Each training has multiple practice problems so that you can complete the training multiple times without repeating the same practice unless it is needed.
 
@@ -33,41 +32,59 @@ Let's get started.
 ## <a name="week1"></a> Accountability in Education
 - [Video Training](http://youtube.com)
 - Practice Problems
-	-text
+  -text
+- Goals
+  -text
 - Black Diamond
-	-text
+  -text
+
 
 ## <a name="week2"></a> Teaching With Clarity
 - [Video Training](http://youtube.com)
 - Practice Problems
-	-text
+  -text
+- Goals
+  -text
 - Black Diamond
-	-text
+  -text
+
 
 ## <a name="week3"></a> Assessing the Learning Context
 - [Video Training](http://youtube.com)
 - Practice Problems
-	-text
+  -text
+- Goals
+  -text
 - Black Diamond
-	-text
+  -text
+
 
 ## <a name="week4"></a> Building Learner Motivation
 - [Video Training](http://youtube.com)
 - Practice Problems
-	-text
+  -text
+- Goals
+  -text
 - Black Diamond
-	-text
+  -text
+
 
 ## <a name="week5"></a> Delivering Constructive Feedback
 - [Video Training](http://youtube.com)
 - Practice Problems
-	-text
+  -text
+- Goals
+  -text
 - Black Diamond
-	-text
+  -text
+
 
 ## <a name="week6"></a> Personal Analysis
 - [Video Training](http://youtube.com)
 - Practice Problems
-	-text
+  -text
+- Goals
+  -text
 - Black Diamond
-	-text
+  -text
+
