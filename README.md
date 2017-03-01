@@ -32,6 +32,7 @@ If you need any help, clarification, or have suggestions for edits, training top
 Let's get started. 
 
 ## <a name="week1"></a> Accountability in Education
+-----
 ### [Video Training](http://youtube.com)
 ### Practice Problems
 1. Pair off with a partner or facillitator. *Take turns* discussing experiences you've had recently where you felt as if there was nothing you could do to help a student; a student was doing poorly and it was all his or her fault; or something else happened and you wondered whether or not there was more that you could have done. Discuss the details of the interaction, but try to remain objective and honest - and encourage your partner to as well by asking additional questions. Give each other feedback. 
