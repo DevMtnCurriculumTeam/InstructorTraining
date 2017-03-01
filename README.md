@@ -32,59 +32,59 @@ Let's get started.
 ## <a name="week1"></a> Accountability in Education
 - [Video Training](http://youtube.com)
 - Practice Problems
-  -text
+  - text
 - Goals
-  -text
+  - text
 - Black Diamond
-  -text
+  - text
 
 
 ## <a name="week2"></a> Teaching With Clarity
 - [Video Training](http://youtube.com)
 - Practice Problems
-  -text
+  - text
 - Goals
-  -text
+  - text
 - Black Diamond
-  -text
+  - text
 
 
 ## <a name="week3"></a> Assessing the Learning Context
-- [Video Training](http://youtube.com)
+- [Video Training](https://youtu.be/ht0OVdlPDgM)
 - Practice Problems
-  -text
+  - text
 - Goals
-  -text
+  - text
 - Black Diamond
-  -text
+  - text
 
 
 ## <a name="week4"></a> Building Learner Motivation
 - [Video Training](http://youtube.com)
 - Practice Problems
-  -text
+  - text
 - Goals
-  -text
+  - text
 - Black Diamond
-  -text
+  - text
 
 
 ## <a name="week5"></a> Delivering Constructive Feedback
-- [Video Training](http://youtube.com)
+- [Video Training](https://youtu.be/FLHySIq_5Ak)
 - Practice Problems
-  -text
+  - text
 - Goals
-  -text
+  - text
 - Black Diamond
-  -text
+  - text
 
 
 ## <a name="week6"></a> Personal Analysis
 - [Video Training](http://youtube.com)
 - Practice Problems
-  -text
+  - text
 - Goals
-  -text
+  - text
 - Black Diamond
-  -text
+  - text
 
