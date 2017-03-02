@@ -34,12 +34,16 @@ Let's get started.
 ## <a name="week1"></a> Accountability in Education
 ### [Video Training](http://youtube.com)
 ### Practice Problems
+Having clear talks like the following practices can help you develop an attitude of responsibility toward the things you can change, and help you to recognize that you can still be successful as a teacher even when some things are outside your control. It is important that, during these conversations, we try to be as honest with ourselves and with others as possible - striking the balance between being overly critical, and blinding yourself with a false sense of accomplishment by constantly assuming that you or your partner are already doing great. 
+
 1. Pair off with a partner or facillitator. *Take turns* discussing experiences you've had recently where you felt as if there was nothing you could do to help a student; a student was doing poorly and it was all his or her fault; or something else happened and you wondered whether or not there was more that you could have done. Discuss the details of the interaction, but try to remain objective and honest - and encourage your partner to as well by asking additional questions. Give each other feedback. 
   1. In light of the recent training, what could you have done more? 
   2. What of that situation was purely on the student? 
   3. What early intervention (actions taken long before a problem arises) could've either prevented this, or at least made it easier to deal with?
-
-Having clear talks like this can help you develop an attitude of responsibility toward the things you can change, and help you to recognize that you can still be successful as a teacher even when some things are outside your control
+2. Pair off with a partner or facillitator. Take two minutes to think of the last time a student asked you a difficult or frustrating problem. *Take turns* sharing the experience with your partner and talking about your response. In light of the discussion about taking accountability for the emotional state of your students, answer the following questions together:
+  1. With your response, were you trying to solve the student's problem (worker mindset) or solve the problem that the student doesn't understand (teacher mindset)?
+  2. Were you able to leave the student feeling more accomplished, or did you just solve the problem for them?
+  3. Did your tone, word choice, etc. communicate encouragement to the student?
 
 ### Goals
 1. Based on the discussion above, set two goals for the coming week. Write the goals down, and plan on using them all week:
@@ -64,12 +68,14 @@ Having clear talks like this can help you develop an attitude of responsibility 
     1. Metaphors/Similes
     2. Object lessons
     3. Connecting to prior knowledge or past topics
+
 ### Goals
 1. Based on the video training, choose **one** of the goals below to focus on for the next week. Make your decision based on what you think would be most important for you to focus on. Write the goal down, and plan on using it all week:
   1. Every time you deliver a lecture, make sure that you start by teaching students to understand difficult concepts and that every lecture includes the necessary examples or metaphors to help students understand. 
   2. Every time you teach a new concept, plan time to check that your students understand before making them do projects. Plan guided practice into your lesson plans where you force the students to teach you the concepts you have covered, or apply them while you watch so that you can correct misunderstandings or help them when they don't remember. 
   3. Make a goal to force every student to participate in the course of a week as many times as possible by planning in enough questions so that you can make sure every student has a chance to answer, and call on students by name rather than letting anyone answer. 
   4. Make a goal to answer every single question posed to you in the pattern of understand and then apply. First help students understand the thing they are asking about, and then walk them through a scenario where they would use it or give them a scenario to solve before considering the question answered. 
+
 ### Black Diamond
 1. Take time this week to look at all of your lesson plans for lectures. Highlight each section of the lesson plan in one of 2 colors - so that you know whether the goal of that section is to help students *understand* or *apply*. While delivering lectures or answering questions, remain aware of which "mode" you should be in and which mode will be most helpful to the students.
   1. When you are in "understand mode," you should be doing lots of talking, giving as many examples, definitions, or explanations as you can to help students wrap their head around the topic.
@@ -77,13 +83,28 @@ Having clear talks like this can help you develop an attitude of responsibility 
 
 
 ## <a name="week3"></a> Assessing the Learning Context
-- [Video Training](https://youtu.be/ht0OVdlPDgM)
+### [Video Training](https://youtu.be/ht0OVdlPDgM)
 ### Practice Problems
-1. text
+1. It's time to play as though you are a student with a question. Pair off into partners or small groups. Start by taking 5 minutes to create an "I don't understand problem," like seen in the video training. Identify a concept or example from your course with some complexity. Identify one portion of that question as the section that you "don't get." Then, *take turns* with your partner answerring each other questions. The person acting as a student should present the example they are struggling with, and the person acting as instructor has to find out what portion the student doesn't understand, and then teach that concept. 
+2. Take 15 minutes to write a new lesson plan for the next lecture you need to give. Start by identifying the learning objective. Then write down the information that you expect students to have mastered before beginning that lecture (which can often be found by looking at learning objectives from previous days). Finally, list all of the concepts that you will need to teach them in order to bridge the gap between where they are and where you want them to be. Take time to try and imagine where they will be coming from, what you would teach, and how you would teach it. Then evaluate, based on what you have written, whether or not your students would be able to understand the topics you intend to cover with just the knowledge they have so far. Then, share your plan with a partner and *take turns* giving each other feedback. 
+3. Write down the names of all of your current students. Then, write down the following for each:
+  1. Where they are in their personal progress through the curriculum
+  2. How they are doing emotionally, and at completing assignments
+  3. What they still don't understand or struggle with. 
+After identifying these things, set goal IV below. 
+
 ### Goals
-1. text
+1. Based on the discussions you've just had and the video training, set goals to do **one** of the following in the coming week. Choose which goal to set based on what you think is most important for you, write the goal down, and plan on using it all week:
+  1. Resolve to answer every curriculum-related question in the coming week with a question. Do not answer any questions without first seeking to understand more of what the student needs. Even if the question *seems* crystal clear to you, ask a clarifying question before answering it. 
+  2. Resolve to take time "Reading the Room" before you begin each lecture. Rather than talking about the weather, or launching straight into your lesson plan, ask students how they are doing, what they have recently completed, and whether or not they understood it. Do this every single time, and vary which students you talk to. 
+  3. Write all of your lesson plans or lecture plans this week in the format used in this video. Every lesson plan should *at least* include (be as specific as possible):
+    1. What your learning objective for the lesson is.
+    2. What the student should know going into the lesson.
+    3. What concepts need to go into the lesson to help the student be prepared to understand all of the learning objectives? 
+  4. Looking at your list of students, set specific plans and goals for them. What can be done to help improve their understanding, starting at the level they are at? If they are up to current standards, what resources or challenges could push them further?
+
 ### Black Diamond
-1. text
+1. Have another mentor or instructor watch you teach a lesson or answer questions, and then discuss together whether or not you were successful in reading the room, understanding student needs, and teaching specifically to those needs. 
 
 
 ## <a name="week4"></a> Building Learner Motivation
