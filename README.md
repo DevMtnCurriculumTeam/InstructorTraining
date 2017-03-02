@@ -42,7 +42,7 @@ Let's get started.
 Having clear talks like this can help you develop an attitude of responsibility toward the things you can change, and help you to recognize that you can still be successful as a teacher even when some things are outside your control
 
 ### Goals
-1. Based on the discussion above, set two goals for the coming week:
+1. Based on the discussion above, set two goals for the coming week. Write the goals down, and plan on using them all week:
   1. What specifically could you be doing more to help students understand the content of the course?
   2. Where do you consistently waste time or energy that may not impact the student's learning as much as other things could? What specific actions can you take to spend less mental energy on these tasks? 
 
@@ -55,7 +55,7 @@ Having clear talks like this can help you develop an attitude of responsibility 
 
 
 ## <a name="week2"></a> Teaching With Clarity
-- [Video Training](http://youtube.com)
+### [Video Training](http://youtube.com)
 ### Practice Problems
 1. Take a look at the next topic you will be lecturing on. Take 10 minutes to prepare a lesson plan for one of the learning objectives in that lecture - taking extra care to separate it into activities to help students understand the concept, and to apply it together and on their own. Then pair off, take 5 minutes each to teach your learning objective to your partner, and then discuss how successful you were at helping the students understand and apply the material.
   1. For the understand section, think of some metaphors, object lessons, or other ways you can help the student connect what they know to what you are trying to teach them. 
@@ -65,9 +65,15 @@ Having clear talks like this can help you develop an attitude of responsibility 
    2. Object lessons
    3. Connecting to prior knowledge or past topics
 ### Goals
-1. 
+1. Based on the video training, choose **one** of the goals below to focus on for the next week. Make your decision based on what you think would be most important for you to focus on. Write the goal down, and plan on using it all week:
+  1. Every time you deliver a lecture, make sure that you start by teaching students to understand difficult concepts and that every lecture includes the necessary examples or metaphors to help students understand. 
+  2. Every time you teach a new concept, plan time to check that your students understand before making them do projects. Plan guided practice into your lesson plans where you force the students to teach you the concepts you have covered, or apply them while you watch so that you can correct misunderstandings or help them when they don't remember. 
+  3. Make a goal to force every student to participate in the course of a week as many times as possible by planning in enough questions so that you can make sure every student has a chance to answer, and call on students by name rather than letting anyone answer. 
+  4. Make a goal to answer every single question posed to you in the pattern of understand and then apply. First help students understand the thing they are asking about, and then walk them through a scenario where they would use it or give them a scenario to solve before considering the question answered. 
 ### Black Diamond
-1. Take time this week to look at all of your
+1. Take time this week to look at all of your lesson plans for lectures. Highlight each section of the lesson plan in one of 2 colors - so that you know whether the goal of that section is to help students *understand* or *apply*. While delivering lectures or answering questions, remain aware of which "mode" you should be in and which mode will be most helpful to the students.
+  1. When you are in "understand mode," you should be doing lots of talking, giving as many examples, definitions, or explanations as you can to help students wrap their head around the topic.
+  2. When you are in "apply mode," it's time to shut up. Ask a lot of questions, force the students to remember it themselves or complete a small project, and congratulate them when they succeed at doing so. 
 
 
 ## <a name="week3"></a> Assessing the Learning Context
