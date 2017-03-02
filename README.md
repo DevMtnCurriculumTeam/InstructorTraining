@@ -57,11 +57,17 @@ Having clear talks like this can help you develop an attitude of responsibility 
 ## <a name="week2"></a> Teaching With Clarity
 - [Video Training](http://youtube.com)
 ### Practice Problems
-1. text
+1. Take a look at the next topic you will be lecturing on. Take 10 minutes to prepare a lesson plan for one of the learning objectives in that lecture - taking extra care to separate it into activities to help students understand the concept, and to apply it together and on their own. Then pair off, take 5 minutes each to teach your learning objective to your partner, and then discuss how successful you were at helping the students understand and apply the material.
+  1. For the understand section, think of some metaphors, object lessons, or other ways you can help the student connect what they know to what you are trying to teach them. 
+  2. For the remember section, try to give the students an activity to work through with you that is as close to your final expectation as possible, and let the students drive that activity. Only tell them what to do if none of them can remember - otherwise the entire activity should be you asking them what they need to do to complete the next step in the process.
+ 2. As a group, identify which concept your current students struggle the most to grasp. Break into pairs and come up with as many different ways to explain this concept as you can in 8 minutes. Then come back together and discuss your ideas with the rest of the group. Some good tactics for coming up with new ways to explain things include:
+   1. Metaphors/Similes
+   2. Object lessons
+   3. Connecting to prior knowledge or past topics
 ### Goals
-1. text
+1. 
 ### Black Diamond
-1. text
+1. Take time this week to look at all of your
 
 
 ## <a name="week3"></a> Assessing the Learning Context
@@ -76,30 +82,30 @@ Having clear talks like this can help you develop an attitude of responsibility 
 
 ## <a name="week4"></a> Building Learner Motivation
 - [Video Training](http://youtube.com)
-- Practice Problems
-  - text
-- Goals
-  - text
-- Black Diamond
-  - text
+### Practice Problems
+1. text
+### Goals
+1. text
+### Black Diamond
+1. text
 
 
 ## <a name="week5"></a> Delivering Constructive Feedback
 - [Video Training](https://youtu.be/FLHySIq_5Ak)
-- Practice Problems
-  - text
-- Goals
-  - text
-- Black Diamond
-  - text
+### Practice Problems
+1. text
+### Goals
+1. text
+### Black Diamond
+1. text
 
 
 ## <a name="week6"></a> Personal Analysis
 - [Video Training](http://youtube.com)
-- Practice Problems
-  - text
-- Goals
-  - text
-- Black Diamond
-  - text
+### Practice Problems
+1. text
+### Goals
+1. text
+### Black Diamond
+1. text
 
