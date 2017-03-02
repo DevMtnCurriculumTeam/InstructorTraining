@@ -91,7 +91,7 @@ Having clear talks like the following practices can help you develop an attitude
   1. Where they are in their personal progress through the curriculum
   2. How they are doing emotionally, and at completing assignments
   3. What they still don't understand or struggle with. 
-After identifying these things, set goal IV below. 
+  4. After identifying these things, set goal iv below. 
 
 ### Goals
 1. Based on the discussions you've just had and the video training, set goals to do **one** of the following in the coming week. Choose which goal to set based on what you think is most important for you, write the goal down, and plan on using it all week:
@@ -108,7 +108,7 @@ After identifying these things, set goal IV below.
 
 
 ## <a name="week4"></a> Building Learner Motivation
-- [Video Training](http://youtube.com)
+### [Video Training](http://youtube.com)
 ### Practice Problems
 1. text
 ### Goals
@@ -118,7 +118,7 @@ After identifying these things, set goal IV below.
 
 
 ## <a name="week5"></a> Delivering Constructive Feedback
-- [Video Training](https://youtu.be/FLHySIq_5Ak)
+### [Video Training](http://youtube.com)
 ### Practice Problems
 1. text
 ### Goals
@@ -128,7 +128,7 @@ After identifying these things, set goal IV below.
 
 
 ## <a name="week6"></a> Personal Analysis
-- [Video Training](http://youtube.com)
+### [Video Training](http://youtube.com)
 ### Practice Problems
 1. text
 ### Goals
