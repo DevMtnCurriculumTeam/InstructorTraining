@@ -19,7 +19,7 @@ Rotating weekly training for Instructors, Lead Mentors, and Mentors at DevMounta
   - [Feedback](https://goo.gl/forms/gOv9sRAv1KIQgybG2)
 
 ###Start Here
-[WATCH THIS INTRODUCTION VIDEO BEFORE COMPLETING ANY OF THE TRAININGS](https://youtu.be/mG0H6OWUD3I)
+[WATCH THIS INTRODUCTION VIDEO BEFORE COMPLETING ANY OF THE TRAININGS](https://youtu.be/5FG3KVSypX4)
 
 In this training series, you will be going through these training videos, and then working through the concepts covered within them by doing the practice problems that follow each video. Each training has multiple practice problems so that you can complete the training multiple times without repeating the same practice unless it is needed.
 
@@ -32,7 +32,7 @@ If you need any help, clarification, or have suggestions for edits, training top
 Let's get started. 
 
 ## <a name="week1"></a> Accountability in Education
-### [Video Training](http://youtube.com)
+### [Video Training](https://youtu.be/irQ3Zyh5e8A)
 ### Practice Problems
 Having clear talks like the following practices can help you develop an attitude of responsibility toward the things you can change, and help you to recognize that you can still be successful as a teacher even when some things are outside your control. It is important that, during these conversations, we try to be as honest with ourselves and with others as possible - striking the balance between being overly critical, and blinding yourself with a false sense of accomplishment by constantly assuming that you or your partner are already doing great. 
 
@@ -59,7 +59,7 @@ Having clear talks like the following practices can help you develop an attitude
 
 
 ## <a name="week2"></a> Teaching With Clarity
-### [Video Training](http://youtube.com)
+### [Video Training](https://youtu.be/2cHK6D1_nz8)
 ### Practice Problems
 1. Take a look at the next topic you will be lecturing on. Take 10 minutes to prepare a lesson plan for one of the learning objectives in that lecture - taking extra care to separate it into activities to help students understand the concept, and to apply it together and on their own. Then pair off, take 5 minutes each to teach your learning objective to your partner, and then discuss how successful you were at helping the students understand and apply the material.
   1. For the understand section, think of some metaphors, object lessons, or other ways you can help the student connect what they know to what you are trying to teach them. 
@@ -83,7 +83,7 @@ Having clear talks like the following practices can help you develop an attitude
 
 
 ## <a name="week3"></a> Assessing the Learning Context
-### [Video Training](https://youtu.be/ht0OVdlPDgM)
+### [Video Training](https://youtu.be/FakSyit62dA)
 ### Practice Problems
 1. It's time to play as though you are a student with a question. Pair off into partners or small groups. Start by taking 5 minutes to create an "I don't understand problem," like seen in the video training. Identify a concept or example from your course with some complexity. Identify one portion of that question as the section that you "don't get." Then, *take turns* with your partner answerring each other questions. The person acting as a student should present the example they are struggling with, and the person acting as instructor has to find out what portion the student doesn't understand, and then teach that concept. 
 2. Take 15 minutes to write a new lesson plan for the next lecture you need to give. Start by identifying the learning objective. Then write down the information that you expect students to have mastered before beginning that lecture (which can often be found by looking at learning objectives from previous days). Finally, list all of the concepts that you will need to teach them in order to bridge the gap between where they are and where you want them to be. Take time to try and imagine where they will be coming from, what you would teach, and how you would teach it. Then evaluate, based on what you have written, whether or not your students would be able to understand the topics you intend to cover with just the knowledge they have so far. Then, share your plan with a partner and *take turns* giving each other feedback. 
@@ -108,7 +108,7 @@ Having clear talks like the following practices can help you develop an attitude
 
 
 ## <a name="week4"></a> Building Learner Motivation
-### [Video Training](http://youtube.com)
+### [Video Training](https://youtu.be/d_G21PtW6Qc)
 
 ### Practice Problems
 1. text
@@ -122,7 +122,7 @@ Having clear talks like the following practices can help you develop an attitude
 
 
 ## <a name="week5"></a> Delivering Constructive Feedback
-### [Video Training](http://youtube.com)
+### [Video Training](https://youtu.be/_UPGO9pb0cE)
 
 ### Practice Problems
 1. text
@@ -136,14 +136,15 @@ Having clear talks like the following practices can help you develop an attitude
 
 
 ## <a name="week6"></a> Personal Analysis
-### [Video Training](http://youtube.com)
+### [Video Training](https://youtu.be/qc6Cr4NPN_w)
 
 ### Practice Problems
 1. Look back at your last week of teaching. Take a couple minutes to write down each of the topics you delivered lectures on or taught to students. Then complete **two** of the following analyses and discuss them with a partner or facillitator (3 minutes per problem, per person):
   1. For each day, write down whether or not you provided adequate time and introduction to new topics. Did you help students understand the processes they needed to know to complete the projects, or did you unintentionally push them to start using them and only focus on teaching them how to use them?
   2. For each day, write down what questions students had, and what they were getting caught on? Did multiple people run into  the same problem? What could be done to change how you taught that material to allow you to use the 3-step 'task analysis' method of teaching - wherein you start at the level of the students and work incrementally toward the learning objective? 
   3. For each day, what activities made students discouraged? How did you respond to that discouragement? What of your actions could add even more discouragement to students? What could you do to help them feel positive and motivated?
-  4. What metrics could you collect on your performance (for each of the topics you teach) that would be interesting to you? Would you like to know which students get it and which don't when you're done talking and they have to begin their project? Would you like to know students' general level of discouragement? Would you like to know which examples that you used helped the most students? Discuss with your partner or facillitator which metrics are important to you as a teacher, and how you can begin to get a better objective understanding (through metrics) of those outcomes. 
+  4. What metrics could you collect on your performance (for each of the topics you teach) that would be interesting to you? Would you like to know which students get it and which don't when you're done talking and they have to begin their project? Would you like to know students' general level of discouragement? Would you like to know which examples that you used helped the most students? Discuss with your partner or facillitator which metrics are important to you as a teacher, and how you can begin to get a better objective understanding (through metrics) of those outcomes.
+2. Pull out a piece of paper or a note-taking app. Write down one thing you would like to improve at. What is something you would like to see improvement on in your personal performance as an instructor? This is not a goal - it is called an outcome - but it is important to record before doing the rest of this practice activity. After you have recorded your outcome, ask yourself why you want to improve at that thing and write that down. What is your thinking behind that goal? Then ask yourself why that thinking matters to you and write that down. What is your motivation or thinking behind that thinking? Now that we've found your motivation, share what you've written down with a partner or facillitator and take turns coming up with specific actions (goals) that you can take to improve that outcome, and remember that your motivation is the reason those specific actions matter. This should be reflected in your goals in the next section. 
 
 ### Goals
 1. Based on the discussions you've just had and the video training, set goals to do **one** of the following in the coming week. Choose which goal to set based on what you think is most important for you, write the goal down, and plan on using it all week:
