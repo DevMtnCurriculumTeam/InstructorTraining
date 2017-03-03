@@ -109,30 +109,47 @@ Having clear talks like the following practices can help you develop an attitude
 
 ## <a name="week4"></a> Building Learner Motivation
 ### [Video Training](http://youtube.com)
+
 ### Practice Problems
 1. text
+
 ### Goals
-1. text
+1. Based on the discussions you've just had and the video training, set goals to do **one** of the following in the coming week. Choose which goal to set based on what you think is most important for you, write the goal down, and plan on using it all week:
+  1. 
+
 ### Black Diamond
 1. text
 
 
 ## <a name="week5"></a> Delivering Constructive Feedback
 ### [Video Training](http://youtube.com)
+
 ### Practice Problems
 1. text
+
 ### Goals
-1. text
+1. Based on the discussions you've just had and the video training, set goals to do **one** of the following in the coming week. Choose which goal to set based on what you think is most important for you, write the goal down, and plan on using it all week:
+  1. 
+
 ### Black Diamond
 1. text
 
 
 ## <a name="week6"></a> Personal Analysis
 ### [Video Training](http://youtube.com)
+
 ### Practice Problems
-1. text
+1. Look back at your last week of teaching. Take a couple minutes to write down each of the topics you delivered lectures on or taught to students. Then complete **two** of the following analyses and discuss them with a partner or facillitator (3 minutes per problem, per person):
+  1. For each day, write down whether or not you provided adequate time and introduction to new topics. Did you help students understand the processes they needed to know to complete the projects, or did you unintentionally push them to start using them and only focus on teaching them how to use them?
+  2. For each day, write down what questions students had, and what they were getting caught on? Did multiple people run into  the same problem? What could be done to change how you taught that material to allow you to use the 3-step 'task analysis' method of teaching - wherein you start at the level of the students and work incrementally toward the learning objective? 
+  3. For each day, what activities made students discouraged? How did you respond to that discouragement? What of your actions could add even more discouragement to students? What could you do to help them feel positive and motivated?
+  4. What metrics could you collect on your performance (for each of the topics you teach) that would be interesting to you? Would you like to know which students get it and which don't when you're done talking and they have to begin their project? Would you like to know students' general level of discouragement? Would you like to know which examples that you used helped the most students? Discuss with your partner or facillitator which metrics are important to you as a teacher, and how you can begin to get a better objective understanding (through metrics) of those outcomes. 
+
 ### Goals
-1. text
+1. Based on the discussions you've just had and the video training, set goals to do **one** of the following in the coming week. Choose which goal to set based on what you think is most important for you, write the goal down, and plan on using it all week:
+  1. Resolve to ask follow-up questions with students such as "Who gets it?" or "Where did you get lost?" to gain a better understanding of your own performance as a teacher. Set goals to ask these questions at certain times in your coming sessions, or a certain number of times per day. Track yourself to make sure you actually do it. 
+  2. Depending on which practice problem you completed, make specific goals to work on any holes that you identified in your teaching. 
+
 ### Black Diamond
-1. text
+1. Set a camera up or ask someone else to set a camera up to record one of your teaching sesssions. Before watching the video, identify some aspect of your performance that you want to evaluate (How encouraging was my word choice and tone when answering questions) and watch the video, taking notes as you do. It's important to note that EVERYONE hates watching videos of themselves - so try to ignore everything you hate about the experience and just pay attention to the one thing that you are evaluating. Once you are done watching the video, make goals to improve on that area in the coming week. If you are looking for *super* fast improvement, repeat this process multiple times. 
 
