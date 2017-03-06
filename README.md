@@ -166,3 +166,4 @@ Having clear talks like the following practices can help you develop an attitude
 ### Black Diamond
 1. Set a camera up or ask someone else to set a camera up to record one of your teaching sesssions. Before watching the video, identify some aspect of your performance that you want to evaluate (How encouraging was my word choice and tone when answering questions) and watch the video, taking notes as you do. It's important to note that EVERYONE hates watching videos of themselves - so try to ignore everything you hate about the experience and just pay attention to the one thing that you are evaluating. Once you are done watching the video, make goals to improve on that area in the coming week. If you are looking for *super* fast improvement, repeat this process multiple times. 
 
+### *A Note About Silliness in the Classroom
