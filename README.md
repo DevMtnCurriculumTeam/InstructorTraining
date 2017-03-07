@@ -25,7 +25,7 @@ In this training series, you will be going through these training videos, and th
 
 After completing the practice problems, you should set a goal for the following week with your facillitator. 
 
-Finally, each practice also includes 'Black Diamond' exercises and goals for people who wish to push their progression in teaching a little further. These are not required, but can be used as additional resources. 
+Finally, each practice also includes 'Black Diamond' exercises and goals for people who wish to push their progression in teaching a little further. These are not required, but can be used as additional motivation to improve yourself in meaningful and impactful ways. 
 
 If you need any help, clarification, or have suggestions for edits, training topics, or other improvements, please feel free to email me at cory@devmounta.in or you can slack Cory Johnson (@corymj). 
 
