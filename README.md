@@ -137,14 +137,20 @@ Having clear talks like the following practices can help you develop an attitude
 ### [Video Training](https://youtu.be/_UPGO9pb0cE)
 
 ### Practice Problems
-1. text
+1. Pair off with a partner or facillitator and practice **one** of the following scenarios, wherein each of you take turn being the student and the instructor, and then give each other feedback on the things that worked. When it is your turn to be an instructor, your goal is to shape the conversation to help the student understand that you are trying to help them and the two of you (instructor and student) are working toward a mutual purpose:
+  1. Informing a student that he or she will have to differ or repeat a section of the course.
+  2. Informing a student that a project he or she has done is not complete to requirements and they will have to start the work they have done over.
+  3. Inform a student that there attempt at solving one of the practice problems is incorrect (pick one together before starting) and help them to solve it.
 
 ### Goals
 1. Based on the discussions you've just had and the video training, set goals to do **one** of the following in the coming week. Choose which goal to set based on what you think is most important for you, write the goal down, and plan on using it all week:
-  1. 
+  1. Resolve to give students feedback in a way that avoids relying solely on your opinion and instead references outside expert opinions, facts, or other experience/expertise. This will seem like a daunting task to some, and a waste of time to others - but it is neither. Your opinion should be based on fact and information, so reference that rather than just giving your opinion. This subtle difference will have a big impact on whether or not students respect you and help you to combat the tendency for educators to become arrogant and self-important. 
+  2. Resolve to (1) explain how your feedback will help a student before giving it, and (2) only give students feedback that you know will help them in the long run. If you cannot clearly explain to a student why your feedback is useful before giving it, do not give feedback. Instead help the student find some help that you are certain will be beneficial to him or her, or ask other instructors what kind of thing could be helpful for that student's situation.
 
 ### Black Diamond
-1. text
+1. Resolve to prepare for hard discussions with students by finding the facts, expertise, or experience that this discussion is in response to, and by formulating beforehand how you can talk in such a way that helps you and the student understand that you are working for his or her own good. Proper preparation for these conversations goes a long way.
+2. Resolve to use outside resources to critique student projects or practice problems. When looking at a student's work, think of references you could have on hand to help them understand why your opinion is informed by expert advice, and not just something you think.
+3. Resolve to never give your opinion to a student (unless he or she specifically asks for it) and instead focus on giving students advice that is founded in expertise. Put another way, if you don't have sufficient expertise in an area, don't give an opinion. Instead focus on helping the student find the expertise he or she is looking for. 
 
 
 ## <a name="week6"></a> Personal Analysis
